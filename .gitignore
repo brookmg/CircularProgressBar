@@ -6,7 +6,6 @@ buildsystem
 
 # LOCAL
 local.properties
-gradle.properties
 
 # IDEA
 *.idea
